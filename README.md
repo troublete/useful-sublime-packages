@@ -3,12 +3,12 @@
 
 ## Pre-requisite
 
-* Have packge control enables
+* Have package control enabled
 
 ## List
 
-* DocBlockr – Code commenting 
-* PHP Companien – nifty little tool for php development
+* DocBlockr – Code commenting made easy
+* PHP Companien – Nifty little tool for php development
 * Seti_UI – Pretty UI theme
 * SublimeCodeIntel – Extendable code intel plugin 
 * Brogrammer - Another pretty UI theme
