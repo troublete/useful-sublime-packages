@@ -13,6 +13,8 @@
 * SublimeCodeIntel – Extendable code intel plugin 
 * Brogrammer - Another pretty UI theme
 * Tomorrow Color Schemes – Pretty code color scheme
+* DashDoc - Integration of Dash (for quick docs lookup)
+* EditorConfig - .editorconfig Plugin for Sublime
 
 ## License
 
