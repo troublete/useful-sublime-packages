@@ -17,6 +17,7 @@
 * EditorConfig - .editorconfig Plugin for Sublime
 * Local History - store file history
 * Modific - See inline git changes
+* GoSublime - Go support for sublime https://michaelwhatcott.com/gosublime-goimports/
 
 ## License
 
